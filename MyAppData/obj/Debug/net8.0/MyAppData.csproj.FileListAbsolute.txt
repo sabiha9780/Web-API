@@ -1,0 +1,42 @@
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.deps.json
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.runtimeconfig.json
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.dll
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.pdb
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.AssemblyReference.cache
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfoInputs.cache
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfo.cs
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.CoreCompileInputs.cache
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.dll
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\refint\MyAppData.dll
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.pdb
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.genruntimeconfig.cache
+Y:\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\ref\MyAppData.dll
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.deps.json
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.runtimeconfig.json
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.dll
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.pdb
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.AssemblyReference.cache
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfoInputs.cache
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfo.cs
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.CoreCompileInputs.cache
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.dll
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\refint\MyAppData.dll
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.pdb
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.genruntimeconfig.cache
+C:\IDB\ROUND-60\CLASS WORK\Core Web API\05-12-2024\WebApplication1\MyAppData\obj\Debug\net8.0\ref\MyAppData.dll
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.deps.json
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.runtimeconfig.json
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.dll
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\bin\Debug\net8.0\MyAppData.pdb
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.AssemblyReference.cache
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfoInputs.cache
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfo.cs
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.csproj.CoreCompileInputs.cache
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.dll
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\refint\MyAppData.dll
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.pdb
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\MyAppData.genruntimeconfig.cache
+D:\asp.web api core\WebApplication1 (2)\WebApplication1\MyAppData\obj\Debug\net8.0\ref\MyAppData.dll
